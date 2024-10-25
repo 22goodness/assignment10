@@ -1,2 +1,2 @@
-#JavaScript Assignment
-##This is an assignment given to me by Fitech Community
+# JavaScript Assignment
+## This is an assignment given to me by Fitech Community
